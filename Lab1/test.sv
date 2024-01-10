@@ -4,7 +4,7 @@ program automatic test(router_io.TB rtr_io);
     reset();	
   end
   task reset();
-    rtr_io.reset_n = 1'b0;
+    rtr_io.reset_n <= 1'b0;
     rtr_io.cb.frame_n <= '1;
     rtr_io.cb.valid_n <= '1;
     #2 rtr_io.cb.reset_n <= 1'b1;
