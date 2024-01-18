@@ -19,7 +19,10 @@ In Lab1, I completed the following tasks
 ## Lab2
 #### Goal : 
 #### Develope a set of routines to drive one packet into input port3 and visually observe the payload of the packet coming out of output port7  
-
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab2/ArchitectureLab2.png" width="400" height="360" alt="Lab2 Architecture">
+  <br>Fig2. Lab2 Architecture
+</p> 
 In Lab2, I completed the following tasks  
 
 1. Extend the SystemVerilog testbench from lab1 to send a packet from an input port through an output port
