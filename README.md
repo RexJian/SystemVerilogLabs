@@ -7,7 +7,7 @@ Construct a typical architecture of a SystemVerilog testbench
   <br>Fig1. Lab1 Architecture
 </p> 
 
-#### Simulate waveform : reset_n signal keep 1
+#### Simulate waveform : 
 <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab1/Lab1Waveform.png">  
   
 In Lab1, I completed the following tasks  
@@ -23,6 +23,10 @@ In Lab1, I completed the following tasks
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab2/ArchitectureLab2.png" width="400" height="360" alt="Lab2 Architecture">
   <br>Fig2. Lab2 Architecture
 </p> 
+
+#### Simulate waveform : 
+<img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab2/Lab2Waveform.png">  
+
 In Lab2, I completed the following tasks  
 
 1. Extend the SystemVerilog testbench from lab1 to send a packet from an input port through an output port
