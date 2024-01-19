@@ -8,7 +8,7 @@ Construct a typical architecture of a SystemVerilog testbench
 </p> 
 
 #### Predict Waveform and Simulate Waveform :  
-<br><br>
+<br>
 <p align="center">
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab1/Lab1Waveform.png" alt="Lab1 simulate waveform">
   <br>Fig2.  Lab1 simulate waveform
@@ -36,7 +36,7 @@ In Lab1, I completed the following tasks
 </p> 
 
 #### Predict Waveform and Simulate Waveform : 
-<br><br>
+<br>
 <p align="center">
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab2/Lab2Waveform.png" alt="Lab2 simulate waveform">
   <br>Fig4. Lab2 simulate waveform
