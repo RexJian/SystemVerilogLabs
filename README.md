@@ -4,11 +4,22 @@ Construct a typical architecture of a SystemVerilog testbench
 #### Goal : Define a task called reset() to reset the DUT per spec
 <p align="center">
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab1/ArchitectureLab1.png" width="400" height="360" alt="Lab1 Architecture">
-  <br>Fig1. Lab1 Architecture
+  <br>Fig1.  Lab1 Architecture
 </p> 
 
-#### Simulate waveform : 
-<img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab1/Lab1Waveform.png">  
+#### Predict Waveform and Simulate Waveform :  
+<br><br>
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab1/Lab1Waveform.png" alt="Lab1 simulate waveform">
+  <br>Fig2.  Lab1 simulate waveform
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab1/Lab1PredictWaveform.png" alt="Lab1 predict waveform">
+  <br>Fig3.  Lab1 predict waveform
+</p>
   
 In Lab1, I completed the following tasks  
   
@@ -24,8 +35,25 @@ In Lab1, I completed the following tasks
   <br>Fig2. Lab2 Architecture
 </p> 
 
-#### Simulate waveform : 
-<img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab2/Lab2Waveform.png">  
+#### Predict Waveform and Simulate Waveform : 
+<br><br>
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab2/Lab2Waveform.png" alt="Lab2 simulate waveform">
+  <br>Fig4. Lab2 simulate waveform
+</p>
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab2/Lab2PredictWaveform_input.png" alt="Lab2 input predict waveform">
+  <br>Fig5. Lab2 input predict waveform
+</p>
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab2/Lab2PredictWaveform_output.png" alt="Lab2 output predict waveform">
+  <br>Fig6. Lab2 output predict waveform
+</p>
+<br><br>
 
 In Lab2, I completed the following tasks  
 
