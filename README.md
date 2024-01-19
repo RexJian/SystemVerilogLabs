@@ -27,7 +27,7 @@ In Lab1, I completed the following tasks
   
 2. Compile and simulate the SystemVerilog test program
 
-## Lab2
+## <a href="https://github.com/RexJian/SystemVerilogLabs/tree/main/Lab2" style="font-size: 1.5em;">Lab2</a>
 #### Goal : 
 #### Develope a set of routines to drive one packet into input port3 and visually observe the payload of the packet coming out of output port7  
 <p align="center">
