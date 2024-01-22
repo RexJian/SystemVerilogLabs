@@ -1,10 +1,14 @@
 # SystemVerilog Labs
 Construct a typical architecture of a SystemVerilog testbench
-## <a href="https://github.com/RexJian/SystemVerilogLabs/tree/main/Lab1" style="font-size: 1.5em;">Lab1</a>
+
+## Table of Content
+- [Lab1](Lab1)
+
+## [Lab1](https://github.com/RexJian/SystemVerilogLabs/tree/main/Lab1)
 #### Goal : Define a task called reset() to reset the DUT per spec
 <p align="center">
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab1/ArchitectureLab1.png" width="400" height="360" alt="Lab1 Architecture">
-  <br>Fig1.  Lab1 Architecture
+  <br> <strong>Fig1.  Lab1 Architecture</strong>
 </p> 
 
 #### Predict Waveform and Simulate Waveform :  
