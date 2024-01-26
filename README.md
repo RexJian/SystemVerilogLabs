@@ -4,7 +4,8 @@ Construct a typical architecture of a SystemVerilog testbench
 ## Table of Content
 - [Lab1](#lab1)
 - [Lab2](#lab2)
-
+- [Lab3](#lab3)  
+  
 ## [Lab1](https://github.com/RexJian/SystemVerilogLabs/tree/main/Lab1)
 #### Goal : Define a task called reset() to reset the DUT per spec
 <p align="center">
@@ -66,3 +67,7 @@ In Lab2, I completed the following tasks
 
 2. Compile and simulate the router with the updated SystemVerilog testbench
  
+
+## [Lab3](https://github.com/RexJian/SystemVerilogLabs/tree/main/Lab3)
+#### Goal : 
+#### Develope a monitor to sample the output of the router and a checker   
