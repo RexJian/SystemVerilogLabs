@@ -70,4 +70,33 @@ In Lab2, I completed the following tasks
 
 ## [Lab3](https://github.com/RexJian/SystemVerilogLabs/tree/main/Lab3)
 #### Goal : 
-#### Develope a monitor to sample the output of the router and a checker   
+#### Develope a monitor to packet payload from the router. Then, use the checker for checking the output of the router     
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab3/ArchitectureLab3.png" width="450" height="550" alt="Lab3 Architecture">
+  <br> <strong>Fig8. Lab3 Architecture</strong>
+</p>
+
+#### Compare checker's message of wrong rtl and correct rtl
+<br>
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab3/WrongCheckResult.png" alt="Lab3 wrong rtl message">
+  <br> <strong>Fig9. Lab3 wrong rtl message</strong>
+</p>
+<br><br>
+
+<br>
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab3/CorrectCheckResult.png" alt="Lab3 correct rtl message">
+  <br> <strong>Fig9. Lab3 correct rtl message</strong>
+</p>
+<br><br>
+
+In Lab3, I completed the following tasks  
+
+1. Develope a monitor to sample the output of the router
+
+2. Develope a checker to  verify the output of the router
+
+3. Run driver and monitor routines concurrently
+
+4. Verify the self-checking mechanism by executing the testbench against a faulty DUT
