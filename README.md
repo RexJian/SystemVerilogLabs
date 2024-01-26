@@ -37,7 +37,7 @@ In Lab1, I completed the following tasks
 #### Goal : 
 #### Develope a set of routines to drive one packet into input port3 and visually observe the payload of the packet coming out of output port7  
 <p align="center">
-  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab2/ArchitectureLab2.png" width="400" height="360" alt="Lab2 Architecture">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab2/ArchitectureLab2.png" width="480" height="550" alt="Lab2 Architecture">
   <br> <strong>Fig4. Lab2 Architecture</strong>
 </p> 
 
@@ -76,7 +76,7 @@ In Lab2, I completed the following tasks
   <br> <strong>Fig8. Lab3 Architecture</strong>
 </p>
 
-#### Compare checker's message of wrong rtl and correct rtl
+#### Compare checker's message of wrong rtl and correct rtl:
 <br>
 <p align="center">
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab3/WrongCheckResult.png" alt="Lab3 wrong rtl message">
