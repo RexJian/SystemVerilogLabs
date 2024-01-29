@@ -4,7 +4,8 @@ Construct a typical architecture of a SystemVerilog testbench
 ## Table of Content
 - [Lab1](#lab1)
 - [Lab2](#lab2)
-- [Lab3](#lab3)  
+- [Lab3](#lab3)
+- [Lab4](#lab4)  
   
 ## [Lab1](https://github.com/RexJian/SystemVerilogLabs/tree/main/Lab1)
 #### Goal : Define a task called reset() to reset the DUT per spec
@@ -100,3 +101,38 @@ In Lab3, I completed the following tasks
 3. Run driver and monitor routines concurrently
 
 4. Verify the self-checking mechanism by executing the testbench against a faulty DUT
+
+## [Lab4](https://github.com/RexJian/SystemVerilogLabs/tree/main/Lab4)
+#### Goal : 
+#### Create random Packet objects in the generator then send, receive and check the correctness of the DUT using these Packet objects.     
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab4/ArchitectureLab4.png" width="450" height="550" alt="Lab4 Architecture">
+  <br> <strong>Fig11. Lab4 Architecture</strong>
+</p>
+
+#### Compare checker's message of wrong rtl and correct rtl:
+<br>
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab4/WrongCheckResult_Lab4.png" alt="Lab4 wrong rtl message">
+  <br> <strong>Fig12. Lab4 wrong rtl message</strong>
+</p>
+<br><br>
+
+<br>
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab4/CorrectCheckResult_Lab4.png" alt="Lab4 correct rtl message">
+  <br> <strong>Fig13. Lab4 correct rtl message</strong>
+</p>
+<br><br>
+
+In Lab4, I completed the following tasks  
+
+1. Encapsulate packet information into a Packet class
+
+2. Utilize randomization in Packet class to randomly generate source address, destination address and payload
+
+3. Create two Packet objects, one for the input into the DUT, the other for reconstructing the output of the DUT
+
+4. Use the compare() method embedded in the Packet objects to verify the correctness of DUT operation
+
+  
