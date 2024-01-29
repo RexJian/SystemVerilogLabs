@@ -87,7 +87,7 @@ In Lab2, I completed the following tasks
 <br>
 <p align="center">
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab3/CorrectCheckResult.png" alt="Lab3 correct rtl message">
-  <br> <strong>Fig9. Lab3 correct rtl message</strong>
+  <br> <strong>Fig10. Lab3 correct rtl message</strong>
 </p>
 <br><br>
 
