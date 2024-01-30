@@ -1,5 +1,8 @@
 # SystemVerilog Labs
-Construct a typical architecture of a SystemVerilog testbench
+Construct a typical architecture of a SystemVerilog testbench looks like the following:
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/LabArchitecture.png" width="500" height="400" >
+</p> 
 
 ## Table of Content
 - [Lab1](#lab1)
