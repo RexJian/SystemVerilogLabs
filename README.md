@@ -1,5 +1,5 @@
 # SystemVerilog Labs
-Construct a typical architecture of a SystemVerilog testbench looks like the following:
+Use SystemVerilog to build a typical architecture of 16*16 crosspoint switch  router looks like the following:
 <p align="center">
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/LabArchitecture.png" width="500" height="400" >
 </p> 
