@@ -8,7 +8,8 @@ Use SystemVerilog to build a typical architecture of 16*16 crosspoint switch  ro
 - [Lab1](#lab1)
 - [Lab2](#lab2)
 - [Lab3](#lab3)
-- [Lab4](#lab4)  
+- [Lab4](#lab4)
+- [Lab5](#lab5)  
   
 ## [Lab1](https://github.com/RexJian/SystemVerilogLabs/tree/main/Lab1)
 #### Goal : Define a task called reset() to reset the DUT per spec
@@ -138,4 +139,51 @@ In Lab4, I completed the following tasks
 
 4. Use the compare() method embedded in the Packet objects to verify the correctness of DUT operation
 
+## [Lab5](https://github.com/RexJian/SystemVerilogLabs/tree/main/Lab5)
+#### Goal : 
+#### Build a testbench architecture that is capable of exercising all ports simultaneously.    
+
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab5/EncapsulateTransactorArchitectureLab5.png" width="500" height="550" alt="Lab5 Encapsulate Transacotor Architecture">
+  <br> <strong>Fig12. Lab5 Transactor Architecture</strong>
+</p>
+
+  
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab5/ArchitectureLab5.png" width="450" height="550" alt="Lab5 Architecture">
+  <br> <strong>Fig13. Lab5 Architecture</strong>
+</p>
+
+#### Compare checker's message of wrong rtl and correct rtl and simulate waveform:
+<br>
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab5/WrongCheckResult_Lab5.png" alt="Lab5 wrong rtl message">
+  <br> <strong>Fig14. Lab5 wrong rtl message</strong>
+</p>
+<br><br>
+
+  
+<br>
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab5/CorrectCheckResult_Lab5.png" alt="Lab5 correct rtl message">
+  <br> <strong>Fig15. Lab5 correct rtl message</strong>
+</p>
+<br><br>
+
+  
+<br>
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab5/Lab5Waveform.png" alt="Lab5 simulate waveform">
+  <br> <strong>Fig16. Lab5 simulate waveform</strong>
+</p>
+<br><br>
+In Lab5, I completed the following tasks  
+
+1. Build a generator transactor class  
+
+2. Build a Driver class  
+
+3. Build a Receiver class  
+
+4. Expand the testbench to drive and monitor all input and output ports concurrently  
   
