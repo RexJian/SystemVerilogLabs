@@ -114,7 +114,7 @@ In Lab3, I completed the following tasks
   <br> <strong>Fig11. Lab4 Architecture</strong>
 </p>
 
-#### Compare checker's message of wrong rtl and correct rtl:
+#### Compare checker's message of wrong rtl and correct rtl and simulate waveform:
 <br>
 <p align="center">
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab4/WrongCheckResult_Lab4.png" alt="Lab4 wrong rtl message">
@@ -126,6 +126,14 @@ In Lab3, I completed the following tasks
 <p align="center">
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab4/CorrectCheckResult_Lab4.png" alt="Lab4 correct rtl message">
   <br> <strong>Fig13. Lab4 correct rtl message</strong>
+</p>
+<br><br>
+
+
+<br>
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab4/Lab4Waveform.png" alt="Lab4 simulate waveform">
+  <br> <strong>Fig14. Lab4 simulate waveform</strong>
 </p>
 <br><br>
 
@@ -145,20 +153,20 @@ In Lab4, I completed the following tasks
 
 <p align="center">
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab5/EncapsulateTransactorArchitectureLab5.png" width="500" height="550" alt="Lab5 Encapsulate Transacotor Architecture">
-  <br> <strong>Fig12. Lab5 Transactor Architecture</strong>
+  <br> <strong>Fig15. Lab5 Transactor Architecture</strong>
 </p>
 
   
 <p align="center">
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab5/ArchitectureLab5.png" width="450" height="550" alt="Lab5 Architecture">
-  <br> <strong>Fig13. Lab5 Architecture</strong>
+  <br> <strong>Fig16. Lab5 Architecture</strong>
 </p>
 
 #### Compare checker's message of wrong rtl and correct rtl and simulate waveform:
 <br>
 <p align="center">
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab5/WrongCheckResult_Lab5.png" alt="Lab5 wrong rtl message">
-  <br> <strong>Fig14. Lab5 wrong rtl message</strong>
+  <br> <strong>Fig17. Lab5 wrong rtl message</strong>
 </p>
 <br><br>
 
@@ -166,7 +174,7 @@ In Lab4, I completed the following tasks
 <br>
 <p align="center">
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab5/CorrectCheckResult_Lab5.png" alt="Lab5 correct rtl message">
-  <br> <strong>Fig15. Lab5 correct rtl message</strong>
+  <br> <strong>Fig18. Lab5 correct rtl message</strong>
 </p>
 <br><br>
 
@@ -174,7 +182,7 @@ In Lab4, I completed the following tasks
 <br>
 <p align="center">
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab5/Lab5Waveform.png" alt="Lab5 simulate waveform">
-  <br> <strong>Fig16. Lab5 simulate waveform</strong>
+  <br> <strong>Fig19. Lab5 simulate waveform</strong>
 </p>
 <br><br>
 In Lab5, I completed the following tasks  
