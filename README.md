@@ -1,5 +1,5 @@
 # SystemVerilog Labs
-Use SystemVerilog to build a typical architecture of 16*16 crosspoint switch  router looks like the following:
+Use SystemVerilog to build a typical architecture of 16*16 crosspoint switch router, including implementation of functional coverage to measure the progress of testbench, it looks like the following:
 <p align="center">
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/LabArchitecture.png" width="500" height="400" >
 </p> 
@@ -10,6 +10,7 @@ Use SystemVerilog to build a typical architecture of 16*16 crosspoint switch  ro
 - [Lab3](#lab3)
 - [Lab4](#lab4)
 - [Lab5](#lab5)  
+- [Lab6](#lab6)
   
 ## [Lab1](https://github.com/RexJian/SystemVerilogLabs/tree/main/Lab1)
 #### Goal : Define a task called reset() to reset the DUT per spec
@@ -193,5 +194,37 @@ In Lab5, I completed the following tasks
 
 3. Build a Receiver class  
 
-4. Expand the testbench to drive and monitor all input and output ports concurrently  
+4. Expand the testbench to drive and monitor all input and output ports concurrently
+
+## [Lab6](https://github.com/RexJian/SystemVerilogLabs/tree/main/Lab6)
+#### Goal : 
+#### Add the functional coverage components in the scoreboard class. Then, use an "Environment" that encapsulates the components and "runs" them  in a standard manner.    
+
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab6/ArchitectureLab6.png" width="500" height="380" alt="Lab6 Architecture">
+  <br> <strong>Fig20. Lab6 Architecture</strong>
+</p>
+
   
+
+#### Functional coverage message and simulate waveform:
+<br>
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab6/CheckResult.png" alt="Lab6 functional coverage message">
+  <br> <strong>Fig21. Lab6 Functional Coverage message</strong>
+</p>
+<br><br>
+
+
+<br>
+<p align="center">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab6/Lab6Waveform.png" alt="Lab6 simulate waveform">
+  <br> <strong>Fig22. Lab6 simulate waveform</strong>
+</p>
+<br><br>
+
+In Lab6, I completed the following tasks  
+
+1. Implement Functional Coverage  
+
+2. Understand the use of Environments and Standardized Test Methodlogies.
