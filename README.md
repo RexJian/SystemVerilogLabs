@@ -159,7 +159,7 @@ In Lab4, I completed the following tasks
 
   
 <p align="center">
-  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab5/ArchitectureLab5.png" width="450" height="550" alt="Lab5 Architecture">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab5/Architecture_Lab5.png" width="450" height="550" alt="Lab5 Architecture">
   <br> <strong>Fig16. Lab5 Architecture</strong>
 </p>
 
