@@ -210,7 +210,7 @@ In Lab5, I completed the following tasks
 #### Functional coverage message and simulate waveform:
 <br>
 <p align="center">
-  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab6/CheckResult.png" alt="Lab6 functional coverage message">
+  <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/Lab6/CheckResult_Lab6.png" alt="Lab6 functional coverage message">
   <br> <strong>Fig21. Lab6 Functional Coverage message</strong>
 </p>
 <br><br>
