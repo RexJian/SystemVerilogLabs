@@ -1,4 +1,4 @@
-# SystemVerilog Labs
+# SystemVerilog typical architecture labs
 Use SystemVerilog to build a typical architecture of 16*16 crosspoint switch router, including implementation of functional coverage to measure the progress of testbench, it looks like the following:
 <p align="center">
   <img src="https://github.com/RexJian/SystemVerilogLabs/blob/main/LabArchitecture.png" width="500" height="400" >
